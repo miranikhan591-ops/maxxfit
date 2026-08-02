@@ -1,0 +1,6 @@
+{
+  "name": "Maxxfit",
+  "description": "Maxxfit Kinetic performance workout platform, routine builder, and real-time member dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
